@@ -1,1 +1,1 @@
-# hhkb_keymap
+# Keymap for my HHKB Hybrid
